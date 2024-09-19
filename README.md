@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning C/C++, Java, Javascript, and Python.
 - 📫 How to reach me thomasbeck95@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I once came 8th at the world championships of Irish dancing
+- ⚡ Fun fact: I love to dance
 
 <!---
 thomasbeck95/thomasbeck95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
